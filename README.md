@@ -23,12 +23,12 @@ Repositories created while following bootcamp classes and other courses and tuto
 </details>
 
 <details>    
-  <summary><a href="https://github.com/amaralc/2021-ignite-reactjs-I-desafio-01-conceitos-do-react">🌐 Desafio 01 - React concepts </a>[ReactJS, TypeScript]   </summary>  
+  <summary><a href="https://github.com/amaralc/2021-ignite-reactjs-I-desafio-01-conceitos-do-react">🌐 Challenge 01 - React concepts </a>[ReactJS, TypeScript]   </summary>  
   Description: Explore state, props and other concepts.
 </details>
 
 <details>    
-  <summary><a href="https://github.com/amaralc/2021-ignite-reactjs-I-desafio-02-componentizando-a-aplicacao">🌐 Desafio 02 - Create application components </a>[ReactJS, TypeScript]   </summary>  
+  <summary><a href="https://github.com/amaralc/2021-ignite-reactjs-I-desafio-02-componentizando-a-aplicacao">🌐 Challenge 02 - Create application components </a>[ReactJS, TypeScript]   </summary>  
   Description: Restructure application and organize components.
 </details>
 
