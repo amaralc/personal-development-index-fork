@@ -98,3 +98,24 @@ Repositories created while following bootcamp classes and other courses and tuto
     
 </details>
 
+<details>
+  <summary>
+    <strong>Chapter 03 - I - Fundamentals of Next.js</strong>
+  </summary>
+  
+  </br>
+  
+  <details>    
+    <summary>
+      <a href="https://github.com/amaralc/2021-ignite-reactjs-III-ig-news">
+        🌐 Create ig.news app
+      </a>
+      [Next.js, ReactJS, TypeScript]
+    </summary>  
+    Description: Subscription based news app, with Next.js.
+  </details>  
+  
+  </br>
+    
+</details>
+
