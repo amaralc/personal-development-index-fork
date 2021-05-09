@@ -83,6 +83,16 @@ Repositories created while following bootcamp classes and other courses and tuto
     </summary>  
     Description: Creating hooks and using React Context API.
   </details> 
+  <details>    
+    <summary>
+      <a href="https://github.com/amaralc/2021-ignite-reactjs-II-desafio-02-refactoring-classes-ts">
+        🌐 Challenge 02 - Refactor project using TypeScript and Functional Components
+      </a>
+      [ReactJS, TypeScript, JavaScript]
+    </summary>  
+    Description: Convert project from Javascript to Typescript and from Class based Components to Functional Components.
+  </details>  
+  
   
   </br>
     
