@@ -4,42 +4,7 @@ Repositories created while following bootcamp classes and other courses and tuto
 
 </br>
 
-# 2020
-
-## RocketSeat - GoStack
-
-<details>
-  <summary>Click to expand!</summary>
-  </br>
-  <blockquote>  
-    <details>    
-      <summary><a href="https://github.com/amaralc/testes-no-reactjs-e-react-native">🌐 Testes no ReactJS e React Native </a>[React, Redux, Jest, React Testing Library]   </summary>
-      </br>  
-      <p>
-        Description: Created unit tests for components, actions and reducers using TDD.
-      </p>
-      </br>  
-    </details>
-  </blockquote>
-</details>
-</br>
-</br>
-
 # 2021
-
-## ThreeJS Journey
-
-<details>
-  <summary>Click to expand!</summary>
-
-  </br>  
-    <p>
-      Create 3D visualizations with Three.jS
-    </p>
-    </br> 
-</details>
-</br>
-
 ## RocketSeat - Ignite - ReactJS
 
 <details>
@@ -166,12 +131,37 @@ Repositories created while following bootcamp classes and other courses and tuto
     </details>
   </blockquote>
 </details>
+</br>
 
+## ThreeJS Journey
 
+<details>
+  <summary>Click to expand!</summary>
 
+  </br>  
+    <p>
+      Create 3D visualizations with Three.jS
+    </p>
+    </br> 
+</details>
+</br>
 
+# 2020
 
+## RocketSeat - GoStack
 
-
-
-
+<details>
+  <summary>Click to expand!</summary>
+  </br>
+  <blockquote>  
+    <details>    
+      <summary><a href="https://github.com/amaralc/testes-no-reactjs-e-react-native">🌐 Testes no ReactJS e React Native </a>[React, Redux, Jest, React Testing Library]   </summary>
+      </br>  
+      <p>
+        Description: Created unit tests for components, actions and reducers using TDD.
+      </p>
+      </br>  
+    </details>
+  </blockquote>
+</details>
+</br>
