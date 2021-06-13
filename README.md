@@ -137,12 +137,33 @@ Repositories created while following bootcamp classes and other courses and tuto
 
 <details>
   <summary>Click to expand!</summary>
+  <br/> 
+  <p>
+    Create 3D visualizations with Three.jS
+  </p>
+  <br/> 
+  <blockquote>  
+    <details>
+      <summary>
+        <a href="https://github.com/amaralc/three-js-journey/tree/main/chapter-01-basics">
+              🌐 Chapter 01 - Basics
+            </a>
+      </summary>  
+      </br>  
+        <ol>
+          <li>Introduction</li>
+          <li>What is WebGL and why use Three.js</li>
+          <li>Basic Scene</li>
+          <li>Webpack</li>
+          <li>Transform objects</li>
+          <li>Animations</li>
+          <li>Cameras</li>
+          <li>Fullscreen and resizing</li>
+        </ol>
+      </br>       
+    </details>
+  </blockquote>
 
-  </br>  
-    <p>
-      Create 3D visualizations with Three.jS
-    </p>
-    </br> 
 </details>
 </br>
 
