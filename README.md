@@ -4,6 +4,16 @@ Repositories created while following bootcamp classes and other courses and tuto
 
 </br>
 
+# 2022
+## Microfrontends with React: A Complete Developer's Guide
+<details>
+  <summary>Click to expand!</summary>
+  <br/>
+  Repository: https://github.com/amaralc/microfrontends-with-react
+  
+</details>
+</br>
+
 # 2021
 ## RocketSeat - Ignite - ReactJS
 
