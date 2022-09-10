@@ -14,6 +14,16 @@ Repositories created while following bootcamp classes and other courses and tuto
 </details>
 </br>
 
+## Learn ThreeJS using React
+<details>
+  <summary>Click to expand!</summary>
+  <br/>
+  Repository: https://github.com/amaralc/learn-threejs-using-react
+  
+</details>
+</br>
+
+
 # 2021
 ## RocketSeat - Ignite - ReactJS
 
