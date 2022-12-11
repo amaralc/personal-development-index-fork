@@ -10,29 +10,35 @@ Repositories created while following bootcamp classes and other courses and tuto
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] Systems Design Fundamentals</a>
+      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] Systems Design Fundamentals</a> (16%)
     </summary>
     <ul>
       <li>
         Started: 2022-12-11
-      </li>
-      <li>
-        Status: IN PROGRESS (16%)
       </li>
     </ul>
     </details>
   </li>
   <li>
     <details> 
+      <summary>
+        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (14%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2022-11-26
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
     <summary>
-      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a>
+      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (31%)
     </summary>
     <ul>
       <li>
         Started: 2022-11-02
-      </li>
-      <li>
-        Status: IN PROGRESS (31%)
       </li>
     </ul>
     </details>
@@ -40,14 +46,11 @@ Repositories created while following bootcamp classes and other courses and tuto
    <li>
     <details> 
     <summary>
-      <a href="https://docs.google.com/document/d/1Lhxslykqxw0it2yzYy-AELPS-VwzoMoi69FlQB11UXc/edit?usp=share_link">[Book] Building Micro-Frontends</a>
+      <a href="https://docs.google.com/document/d/1Lhxslykqxw0it2yzYy-AELPS-VwzoMoi69FlQB11UXc/edit?usp=share_link">[Book] Building Micro-Frontends</a> (14%)
     </summary>
     <ul>
       <li>
         Started: 2022-10-13
-      </li>
-      <li>
-        Status: IN PROGRESS (14%)
       </li>
     </ul>
     </details>
@@ -55,7 +58,7 @@ Repositories created while following bootcamp classes and other courses and tuto
   <li>
     <details> 
     <summary>
-      <a href="https://docs.google.com/document/d/11H4p8mdh9XqysuJRMCgnANQ6WLe_93aPJqMJi-tC13E/edit?usp=share_link">[Book] Extreme Programming Explained</a>
+      <a href="https://docs.google.com/document/d/11H4p8mdh9XqysuJRMCgnANQ6WLe_93aPJqMJi-tC13E/edit?usp=share_link">[Book] Extreme Programming Explained</a> (100%) ✔️
     </summary>
     <ul>
       <li>
@@ -63,9 +66,6 @@ Repositories created while following bootcamp classes and other courses and tuto
       </li>
       <li>
         Finished: 2022-10-28
-      </li>
-      <li>
-        Status: DONE
       </li>
     </ul>
     </details>
@@ -75,9 +75,11 @@ Repositories created while following bootcamp classes and other courses and tuto
     <summary>
       <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a>
     </summary>
-    <div>
-      Started: 
-    </div>
+    <ul>
+        <li>
+          Started: 
+        </li>
+      </ul>
     </details>
   </li>
   <li>
@@ -85,9 +87,11 @@ Repositories created while following bootcamp classes and other courses and tuto
     <summary>
       <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] Learn ThreeJS using React</a>
     </summary>
-    <div>
-      Started: 
-    </div>
+    <ul>
+        <li>
+          Started: 
+        </li>
+      </ul>
     </details>
   </li>
 </ul>
