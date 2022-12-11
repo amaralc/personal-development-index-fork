@@ -17,7 +17,7 @@ Repositories created while following bootcamp classes and other courses and tuto
         Started: 2022-12-11
       </li>
       <li>
-        Status: IN PROGRESS
+        Status: IN PROGRESS (12%)
       </li>
     </ul>
     </details>
