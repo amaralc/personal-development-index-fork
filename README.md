@@ -22,7 +22,7 @@ Repositories created while following bootcamp classes and other courses and tuto
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (14%)
+        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (16%)
       </summary>
       <ul>
         <li>
