@@ -1,4 +1,4 @@
-# Courses and bootcamps
+# Books, courses and bootcamps
 
 Repositories created while following bootcamp classes and other courses and tutorials.
 
@@ -10,7 +10,7 @@ Repositories created while following bootcamp classes and other courses and tuto
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">Systems Design Fundamentals</a>
+      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] Systems Design Fundamentals</a>
     </summary>
     <ul>
       <li>
@@ -25,7 +25,55 @@ Repositories created while following bootcamp classes and other courses and tuto
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/microfrontends-with-react">Microfrontends with React: A Complete Developer's Guide</a>
+      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a>
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-11-02
+      </li>
+      <li>
+        Status: IN PROGRESS (31%)
+      </li>
+    </ul>
+    </details>
+  </li>
+   <li>
+    <details> 
+    <summary>
+      <a href="https://docs.google.com/document/d/1Lhxslykqxw0it2yzYy-AELPS-VwzoMoi69FlQB11UXc/edit?usp=share_link">[Book] Building Micro-Frontends</a>
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-10-13
+      </li>
+      <li>
+        Status: IN PROGRESS (14%)
+      </li>
+    </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://docs.google.com/document/d/11H4p8mdh9XqysuJRMCgnANQ6WLe_93aPJqMJi-tC13E/edit?usp=share_link">[Book] Extreme Programming Explained</a>
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-02-22
+      </li>
+      <li>
+        Finished: 2022-10-28
+      </li>
+      <li>
+        Status: DONE
+      </li>
+    </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a>
     </summary>
     <div>
       Started: 
@@ -35,7 +83,7 @@ Repositories created while following bootcamp classes and other courses and tuto
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/learn-threejs-using-react">Learn ThreeJS using React</a>
+      <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] Learn ThreeJS using React</a>
     </summary>
     <div>
       Started: 
@@ -50,7 +98,7 @@ Repositories created while following bootcamp classes and other courses and tuto
   <li>
     <details>
       <summary>
-        Ignite - ReactJS
+        [Bootcamp] Ignite - ReactJS
       </summary>
       <br/> 
       <blockquote>  
@@ -177,7 +225,7 @@ Repositories created while following bootcamp classes and other courses and tuto
   </li>
   <li>
     <details>
-      <summary>ThreeJS Journey</summary>
+      <summary>[Course] ThreeJS Journey</summary>
       <br/> 
       <p>
         Create 3D visualizations with Three.jS
