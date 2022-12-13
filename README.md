@@ -1,12 +1,23 @@
-# Books, courses and bootcamps
+<h1>Books, courses and bootcamps</h1>
 
-Repositories created while following bootcamp classes and other courses and tutorials.
+<p>Repositories created while following bootcamp classes and other courses and tutorials.</p>
 
 </br>
 
-# 2022
-
+<h1>2022</h1>
 <ul>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Course] Ignite Lab Node.js 2022</a> (0%)
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-12-13
+      </li>
+    </ul>
+    </details>
+  </li>
   <li>
     <details> 
     <summary>
@@ -96,8 +107,7 @@ Repositories created while following bootcamp classes and other courses and tuto
   </li>
 </ul>
 
-
-# 2021
+<h1>2021</h1>
 <ul>
   <li>
     <details>
@@ -260,8 +270,7 @@ Repositories created while following bootcamp classes and other courses and tuto
   </li>
 </ul>
 
-# 2020
-
+<h1>2020</h1>
 <ul>
   <li>
     <details>
