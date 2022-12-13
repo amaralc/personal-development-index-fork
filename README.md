@@ -10,7 +10,7 @@ Repositories created while following bootcamp classes and other courses and tuto
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] Systems Design Fundamentals</a> (16%)
+      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] Systems Design Fundamentals</a> (20%)
     </summary>
     <ul>
       <li>
