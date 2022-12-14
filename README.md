@@ -9,7 +9,7 @@
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Course] Ignite Lab Node.js 2022</a> (0%)
+      <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Course] Ignite Lab Node.js 2022</a> (33%)
     </summary>
     <ul>
       <li>
