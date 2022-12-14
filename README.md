@@ -4,6 +4,82 @@
 
 </br>
 
+<h1>Backlog</h1>
+<ul>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Tutorial] Beginners TypeScript</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.totaltypescript.com/tutorials/zod">[Tutorial] Zod</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.totaltypescript.com/workshops/type-transformations">[Workshop] Type Transformations</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.totaltypescript.com/tips">[Workshop] TypeScript Tips</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://hasura.io/learn/">[Tutorials] FullStack GraphQL Tutorials</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.amazon.com.br/Peopleware-Productive-Projects-Tom-DeMarco/dp/0321934113">[Book] Peopleware: Productive Projects and Teams</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+      </ul>
+      </details>
+  </li>
+</ul>
+
 <h1>2022</h1>
 <ul>
   <li>
