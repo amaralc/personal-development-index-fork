@@ -160,7 +160,7 @@
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a>
+      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%) (20/127)
     </summary>
     <ul>
         <li>
