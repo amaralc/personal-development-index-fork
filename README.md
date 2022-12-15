@@ -85,11 +85,20 @@
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Course] Ignite Lab Node.js 2022</a> (66%)
+      <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Course] Ignite Lab Node.js 2022</a> (100%) ✔️
     </summary>
     <ul>
       <li>
         Started: 2022-12-13
+      </li>
+      <li>
+        Finished: 2022-12-15
+      </li>
+      <li>
+        Lectures: 03h30m
+      </li>
+      <li>
+        Lectures + Follow along: 06h00m
       </li>
     </ul>
     </details>
