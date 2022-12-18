@@ -118,11 +118,17 @@
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (18%)
+        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (27%)
       </summary>
       <ul>
         <li>
           Started: 2022-11-26
+        </li>
+        <li>
+          Finished:
+        </li>
+        <li>
+          Lectures: XXhXXm (93)
         </li>
       </ul>
     </details>
