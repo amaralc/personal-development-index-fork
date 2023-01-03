@@ -57,7 +57,7 @@
   <li>
     <details> 
       <summary>
-        <a href="https://hasura.io/learn/">[Tutorials] FullStack GraphQL Tutorials</a> (0%)
+        <a href="https://hasura.io/learn/">[Tutorial] FullStack GraphQL Tutorials</a> (0%)
       </summary>
       <ul>
         <li>
