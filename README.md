@@ -136,18 +136,6 @@
       </ul>
     </details>
   </li>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (65%)
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-11-02
-      </li>
-    </ul>
-    </details>
-  </li>
    <li>
     <details> 
     <summary>
@@ -156,6 +144,18 @@
     <ul>
       <li>
         Started: 2022-10-13
+      </li>
+    </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (100%) ✔️
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-11-02
       </li>
     </ul>
     </details>
