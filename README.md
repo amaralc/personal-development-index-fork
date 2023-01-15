@@ -15,6 +15,9 @@
         <li>
           Started: 
         </li>
+        <li>
+          Finished:
+        </li>
       </ul>
       </details>
   </li>
@@ -26,6 +29,9 @@
       <ul>
         <li>
           Started: 
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
       </details>
@@ -39,6 +45,9 @@
         <li>
           Started: 
         </li>
+        <li>
+          Finished:
+        </li>
       </ul>
       </details>
   </li>
@@ -51,17 +60,23 @@
         <li>
           Started: 
         </li>
+        <li>
+          Finished:
+        </li>
       </ul>
       </details>
   </li>
   <li>
     <details> 
       <summary>
-        <a href="https://hasura.io/learn/">[Tutorials] FullStack GraphQL Tutorials</a> (0%)
+        <a href="https://hasura.io/learn/">[Tutorial] FullStack GraphQL Tutorials</a> (0%)
       </summary>
       <ul>
         <li>
           Started: 
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
       </details>
@@ -75,32 +90,44 @@
         <li>
           Started: 
         </li>
+        <li>
+          Finished:
+        </li>
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] Learn ThreeJS using React</a>
+    </summary>
+    <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
 </ul>
 
-<h1>2022</h1>
+<h1>2023</h1>
 <ul>
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Course] Ignite Lab Node.js 2022</a> (100%) ✔️
+      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%)
     </summary>
     <ul>
-      <li>
-        Started: 2022-12-13
-      </li>
-      <li>
-        Finished: 2022-12-15
-      </li>
-      <li>
-        Lectures: 03h30m
-      </li>
-      <li>
-        Lectures + Follow along: 06h00m
-      </li>
-    </ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
     </details>
   </li>
   <li>
@@ -112,13 +139,16 @@
       <li>
         Started: 2022-12-11
       </li>
+      <li>
+          Finished:
+        </li>
     </ul>
     </details>
   </li>
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (30%)
+        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (27%)
       </summary>
       <ul>
         <li>
@@ -127,22 +157,7 @@
         <li>
           Finished:
         </li>
-        <li>
-          Lectures: XXhXXm (93)
-        </li>
       </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (41%)
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-11-02
-      </li>
-    </ul>
     </details>
   </li>
    <li>
@@ -153,6 +168,43 @@
     <ul>
       <li>
         Started: 2022-10-13
+      </li>
+      <li>
+        Finished:
+      </li>
+    </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (100%) ✔️
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-11-02
+      </li>
+      <li>
+        Finished:
+      </li>
+    </ul>
+    </details>
+  </li>
+</ul>
+
+<h1>2022</h1>
+<ul>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Workshop] Ignite Lab Node.js 2022</a> (100%) ✔️
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-12-13
+      </li>
+      <li>
+        Finished: 2022-12-15
       </li>
     </ul>
     </details>
@@ -170,30 +222,6 @@
         Finished: 2022-10-28
       </li>
     </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%)
-    </summary>
-    <ul>
-        <li>
-          Started: 
-        </li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] Learn ThreeJS using React</a>
-    </summary>
-    <ul>
-        <li>
-          Started: 
-        </li>
-      </ul>
     </details>
   </li>
 </ul>
