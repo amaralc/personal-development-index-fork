@@ -145,7 +145,7 @@
     </ul>
     </details>
   </li>
-  <li>
+   <li>
     <details> 
       <summary>
         <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (30%)
@@ -175,6 +175,10 @@
     </ul>
     </details>
   </li>
+</ul>
+
+<h1>2022</h1>
+<ul>
   <li>
     <details> 
     <summary>
