@@ -15,6 +15,9 @@
         <li>
           Started: 
         </li>
+        <li>
+          Finished:
+        </li>
       </ul>
       </details>
   </li>
@@ -26,6 +29,9 @@
       <ul>
         <li>
           Started: 
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
       </details>
@@ -39,6 +45,9 @@
         <li>
           Started: 
         </li>
+        <li>
+          Finished:
+        </li>
       </ul>
       </details>
   </li>
@@ -50,6 +59,9 @@
       <ul>
         <li>
           Started: 
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
       </details>
@@ -63,6 +75,9 @@
         <li>
           Started: 
         </li>
+        <li>
+          Finished:
+        </li>
       </ul>
       </details>
   </li>
@@ -74,6 +89,9 @@
       <ul>
         <li>
           Started: 
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
       </details>
@@ -87,6 +105,9 @@
         <li>
           Started: 
         </li>
+        <li>
+          Finished:
+        </li>
       </ul>
     </details>
   </li>
@@ -97,11 +118,14 @@
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%) (20/127)
+      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%)
     </summary>
     <ul>
         <li>
           Started: 
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
     </details>
@@ -115,13 +139,16 @@
       <li>
         Started: 2022-12-11
       </li>
+      <li>
+          Finished:
+        </li>
     </ul>
     </details>
   </li>
-  <li>
+   <li>
     <details> 
       <summary>
-        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (27%)
+        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (30%)
       </summary>
       <ul>
         <li>
@@ -129,9 +156,6 @@
         </li>
         <li>
           Finished:
-        </li>
-        <li>
-          Lectures: XXhXXm (93)
         </li>
       </ul>
     </details>
@@ -145,9 +169,16 @@
       <li>
         Started: 2022-10-13
       </li>
+      <li>
+        Finished:
+      </li>
     </ul>
     </details>
   </li>
+</ul>
+
+<h1>2022</h1>
+<ul>
   <li>
     <details> 
     <summary>
@@ -156,6 +187,9 @@
     <ul>
       <li>
         Started: 2022-11-02
+      </li>
+      <li>
+        Finished:
       </li>
     </ul>
     </details>
@@ -175,12 +209,6 @@
       </li>
       <li>
         Finished: 2022-12-15
-      </li>
-      <li>
-        Lectures: 03h30m
-      </li>
-      <li>
-        Lectures + Follow along: 06h00m
       </li>
     </ul>
     </details>
