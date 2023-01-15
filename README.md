@@ -148,7 +148,7 @@
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (27%)
+        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (30%)
       </summary>
       <ul>
         <li>
