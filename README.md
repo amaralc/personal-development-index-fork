@@ -175,10 +175,6 @@
     </ul>
     </details>
   </li>
-</ul>
-
-<h1>2022</h1>
-<ul>
   <li>
     <details> 
     <summary>
