@@ -118,6 +118,21 @@
   <li>
     <details> 
     <summary>
+      <a href="https://imersao.fullcycle.com.br/page/lancamento/">[Course] Full Cycle</a> (3%)
+    </summary>
+    <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+    <summary>
       <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%)
     </summary>
     <ul>
