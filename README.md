@@ -118,7 +118,7 @@
   <li>
     <details> 
     <summary>
-      <a href="https://imersao.fullcycle.com.br/page/lancamento/">[Course] Full Cycle</a> (3%)
+      <a href="https://github.com/amaralc/full-cycle-3-0">[Course] Full Cycle</a> (5%)
     </summary>
     <ul>
         <li>
