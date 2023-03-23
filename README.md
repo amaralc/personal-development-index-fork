@@ -114,7 +114,28 @@
 </ul>
 
 <h1>2023</h1>
+
 <ul>
+
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/amaralc/workshop-modern-redux-with-redux-toolkit-and-typescript">[Workshop] Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (0%)
+    </summary>
+    <ul>
+        <li>
+          Workshop: https://egghead.io/courses/modern-redux-with-redux-toolkit-rtk-and-typescript-64f243c8
+        </li>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+
   <li>
     <details> 
     <summary>
@@ -130,6 +151,7 @@
       </ul>
     </details>
   </li>
+
   <li>
     <details> 
     <summary>
@@ -145,6 +167,7 @@
       </ul>
     </details>
   </li>
+
   <li>
     <details> 
     <summary>
@@ -160,7 +183,8 @@
     </ul>
     </details>
   </li>
-   <li>
+
+  <li>
     <details> 
       <summary>
         <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (52%)
@@ -175,7 +199,8 @@
       </ul>
     </details>
   </li>
-   <li>
+
+  <li>
     <details> 
     <summary>
       <a href="https://docs.google.com/document/d/1Lhxslykqxw0it2yzYy-AELPS-VwzoMoi69FlQB11UXc/edit?usp=share_link">[Book] Building Micro-Frontends</a> (20%)
@@ -190,6 +215,7 @@
     </ul>
     </details>
   </li>
+
   <li>
     <details> 
     <summary>
@@ -205,6 +231,7 @@
     </ul>
     </details>
   </li>
+
   <li>
     <details> 
     <summary>
@@ -220,6 +247,7 @@
     </ul>
     </details>
   </li>
+
   <li>
     <details> 
     <summary>
@@ -235,6 +263,7 @@
     </ul>
     </details>
   </li>
+
 </ul>
 
 <h1>2022</h1>
