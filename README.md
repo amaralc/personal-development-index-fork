@@ -120,25 +120,6 @@
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/workshop-modern-redux-with-redux-toolkit-and-typescript">[Workshop] Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (0%)
-    </summary>
-    <ul>
-        <li>
-          Workshop: https://egghead.io/courses/modern-redux-with-redux-toolkit-rtk-and-typescript-64f243c8
-        </li>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-
-  <li>
-    <details> 
-    <summary>
       <a href="https://github.com/amaralc/full-cycle-3-0">[Course] Full Cycle</a> (5%)
     </summary>
     <ul>
@@ -229,6 +210,25 @@
         Finished:
       </li>
     </ul>
+    </details>
+  </li>
+
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/amaralc/workshop-modern-redux-with-redux-toolkit-and-typescript">[Workshop] Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (100%) ✔️
+    </summary>
+    <ul>
+        <li>
+          Workshop: https://egghead.io/courses/modern-redux-with-redux-toolkit-rtk-and-typescript-64f243c8
+        </li>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
     </details>
   </li>
 
