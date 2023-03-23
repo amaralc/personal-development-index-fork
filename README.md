@@ -193,7 +193,7 @@
   <li>
     <details> 
     <summary>
-      <a href="https://www.amazon.com.br/Monolith-Microservices-Sam-Newman/dp/1492047848">[Book] Software Engineering at Google: Lessons Learned from Programming Over Time</a> (48%)
+      <a href="https://www.amazon.com.br/Software-Engineering-Google-Titus-Winters/dp/1492082791">[Book] Software Engineering at Google: Lessons Learned from Programming Over Time</a> (48%)
     </summary>
     <ul>
       <li>
