@@ -193,6 +193,18 @@
   <li>
     <details> 
     <summary>
+      <a href="https://www.amazon.com.br/Monolith-Microservices-Sam-Newman/dp/1492047848">[Book] Software Engineering at Google: Lessons Learned from Programming Over Time</a> (48%)
+    </summary>
+    <ul>
+      <li>
+        Started: 2023-02-04
+      </li>
+      <li>
+        Finished: 2023-02-24
+      </li>
+    </ul>
+    </details>
+  </li>
   <li>
     <details> 
     <summary>
@@ -208,6 +220,9 @@
     </ul>
     </details>
   </li>
+  <li>
+    <details> 
+    <summary>
       <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (100%) ✔️
     </summary>
     <ul>
@@ -215,7 +230,7 @@
         Started: 2022-11-02
       </li>
       <li>
-        Finished:
+        Finished: 2023-01-14
       </li>
     </ul>
     </details>
