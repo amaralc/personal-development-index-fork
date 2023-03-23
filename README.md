@@ -193,6 +193,21 @@
   <li>
     <details> 
     <summary>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://www.amazon.com.br/Monolith-Microservices-Sam-Newman/dp/1492047848">[Book] Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith</a> (100%) ✔️
+    </summary>
+    <ul>
+      <li>
+        Started: 2023-02-04
+      </li>
+      <li>
+        Finished: 2023-02-24
+      </li>
+    </ul>
+    </details>
+  </li>
       <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (100%) ✔️
     </summary>
     <ul>
