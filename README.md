@@ -1,8 +1,9 @@
-# Personal Development Index
+<h1>Books, courses and bootcamps</h1>
 
-This is a simple document that aims to list and index evidences of personal development. Read [this references](./docs/references.md) for aditional details.
+<p>Repositories created while following bootcamp classes and other courses and tutorials.</p>
 
 </br>
+
 <h1>Backlog</h1>
 <ul>
   <li>
@@ -98,7 +99,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] Learn ThreeJS using React</a> (0%)
+      <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] Learn ThreeJS using React</a>
     </summary>
     <ul>
         <li>
@@ -111,18 +112,19 @@ This is a simple document that aims to list and index evidences of personal deve
     </details>
   </li>
 </ul>
-</br>
 
 <h1>2023</h1>
+
 <ul>
+
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%)
+      <a href="https://github.com/amaralc/full-cycle-3-0">[Course] Full Cycle</a> (5%)
     </summary>
     <ul>
         <li>
-          Started: 2022-11-10
+          Started: 
         </li>
         <li>
           Finished:
@@ -130,6 +132,23 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
+
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%)
+    </summary>
+    <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+
   <li>
     <details> 
     <summary>
@@ -140,15 +159,16 @@ This is a simple document that aims to list and index evidences of personal deve
         Started: 2022-12-11
       </li>
       <li>
-        Finished:
-      </li>
+          Finished:
+        </li>
     </ul>
     </details>
   </li>
+
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (27%)
+        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (52%)
       </summary>
       <ul>
         <li>
@@ -160,22 +180,8 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
+
   <li>
-    <details> 
-    <summary>
-      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (61%)
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-11-02
-      </li>
-      <li>
-        Finished:
-      </li>
-    </ul>
-    </details>
-  </li>
-   <li>
     <details> 
     <summary>
       <a href="https://docs.google.com/document/d/1Lhxslykqxw0it2yzYy-AELPS-VwzoMoi69FlQB11UXc/edit?usp=share_link">[Book] Building Micro-Frontends</a> (20%)
@@ -190,8 +196,75 @@ This is a simple document that aims to list and index evidences of personal deve
     </ul>
     </details>
   </li>
+
+  <li>
+    <details> 
+    <summary>
+      <a href="https://www.amazon.com.br/Software-Engineering-Google-Titus-Winters/dp/1492082791">[Book] Software Engineering at Google: Lessons Learned from Programming Over Time</a> (48%)
+    </summary>
+    <ul>
+      <li>
+        Started: 2023-02-16
+      </li>
+      <li>
+        Finished:
+      </li>
+    </ul>
+    </details>
+  </li>
+
+  <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/amaralc/workshop-modern-redux-with-redux-toolkit-and-typescript">[Workshop] Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (100%) ✔️
+    </summary>
+    <ul>
+        <li>
+          Workshop: https://egghead.io/courses/modern-redux-with-redux-toolkit-rtk-and-typescript-64f243c8
+        </li>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details> 
+    <summary>
+      <a href="https://www.amazon.com.br/Monolith-Microservices-Sam-Newman/dp/1492047848">[Book] Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith</a> (100%) ✔️
+    </summary>
+    <ul>
+      <li>
+        Started: 2023-02-04
+      </li>
+      <li>
+        Finished: 2023-02-24
+      </li>
+    </ul>
+    </details>
+  </li>
+
+  <li>
+    <details> 
+    <summary>
+      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (100%) ✔️
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-11-02
+      </li>
+      <li>
+        Finished: 2023-01-14
+      </li>
+    </ul>
+    </details>
+  </li>
+
 </ul>
-</br>
 
 <h1>2022</h1>
 <ul>
@@ -226,4 +299,191 @@ This is a simple document that aims to list and index evidences of personal deve
     </details>
   </li>
 </ul>
-</br>
+
+<h1>2021</h1>
+<ul>
+  <li>
+    <details>
+      <summary>
+        [Bootcamp] Ignite - ReactJS
+      </summary>
+      <br/> 
+      <blockquote>  
+        <details>
+          <summary>
+            <strong>Chapter 01 - Fundamentals of ReactJS</strong>
+          </summary>  
+          </br>
+          <blockquote>    
+            <details>    
+              <summary>
+                <a href="https://github.com/amaralc/2021-ignite-reactjs-I-github-explorer">
+                  🌐 Create github explorer app
+                </a>
+                [ReactJS, TypeScript]
+              </summary>
+              </br>  
+              <p>
+                Description: List github repositories for a given github username.
+              </p>
+              </br>  
+            </details>
+            <details>    
+              <summary>
+                <a href="https://github.com/amaralc/2021-ignite-reactjs-I-desafio-01-conceitos-do-react">
+                  🌐 Challenge 01 - React concepts 
+                </a>
+                [ReactJS, TypeScript]
+              </summary>
+              </br>  
+              <p>
+                Description: Explore state, props and other concepts.
+              </p>
+              </br>
+            </details>
+            <details>    
+              <summary>
+                <a href="https://github.com/amaralc/2021-ignite-reactjs-I-desafio-02-componentizando-a-aplicacao">
+                  🌐 Challenge 02 - Create application components
+                </a>
+                [ReactJS, TypeScript]
+              </summary>
+              </br>  
+              <p>
+                Description: Restructure application and organize components.
+              </p>
+              </br>         
+            </details>
+          </blockquote>    
+          </br>    
+          </details>
+          <details>
+            <summary>
+              <strong>Chapter 02 - First Web Application With ReactJS</strong>
+            </summary>    
+            </br>
+            <blockquote>    
+              <details>    
+                <summary>
+                  <a href="https://github.com/amaralc/2021-ignite-reactjs-II-dtmoney">
+                    🌐 Create DTMoney app
+                  </a>
+                  [ReactJS, TypeScript]
+                </summary>
+                </br>  
+                <p>
+                  Description: Create app to control personal finances.
+                </p>
+                </br>  
+              </details>
+              <details>    
+                <summary>
+                  <a href="https://github.com/amaralc/2021-ignite-reactjs-II-desafio-01-criando-um-hook-de-carrinho-de-compras">
+                    🌐 Challenge 01 - Creating a shopping cart hook
+                  </a>
+                  [ReactJS, TypeScript]
+                </summary>
+                </br>  
+                <p>
+                  Description: Creating hooks and using React Context API.
+                </p>
+                </br>  
+              </details> 
+              <details>    
+                <summary>
+                  <a href="https://github.com/amaralc/2021-ignite-reactjs-II-desafio-02-refactoring-classes-ts">
+                    🌐 Challenge 02 - Refactor project using TypeScript and Functional Components
+                  </a>
+                  [ReactJS, TypeScript, JavaScript]
+                </summary>
+                </br>  
+                <p>
+                  Description: Convert project from Javascript to Typescript and from Class based Components to Functional Components.
+                </p>
+                </br>  
+              </details>         
+            </blockquote>
+            </br>      
+          </details>
+          <details>
+            <summary>
+              <strong>Chapter 03 - I - Fundamentals of Next.js</strong>
+            </summary>      
+            </br>
+            <blockquote>     
+              <details>    
+                <summary>
+                  <a href="https://github.com/amaralc/2021-ignite-reactjs-III-ig-news">
+                    🌐 Create ig.news app
+                  </a>
+                  [Next.js, ReactJS, TypeScript]
+                </summary>
+                </br>  
+                <p>
+                  Description: Subscription based news app, with Next.js.
+                </p>
+                </br>           
+              </details>          
+            </blockquote>
+            </br>          
+        </details>
+      </blockquote>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>[Course] ThreeJS Journey</summary>
+      <br/> 
+      <p>
+        Create 3D visualizations with Three.jS
+      </p>
+      <br/> 
+      <blockquote>  
+        <details>
+          <summary>
+            <a href="https://github.com/amaralc/three-js-journey/tree/main/chapter-01-basics">
+              🌐 Chapter 01 - Basics
+            </a>
+          </summary>  
+          </br>  
+            <ol>
+              <li>Introduction</li>
+              <li>What is WebGL and why use Three.js</li>
+              <li>Basic Scene</li>
+              <li>Webpack</li>
+              <li>Transform objects</li>
+              <li>Animations</li>
+              <li>Cameras</li>
+              <li>Fullscreen and resizing</li>
+            </ol>
+          </br>       
+        </details>
+      </blockquote>
+    </details>
+  </li>
+</ul>
+
+<h1>2020</h1>
+<ul>
+  <li>
+    <details>
+      <summary>RocketSeat - GoStack</summary>
+      </br>
+      <blockquote>  
+        <details>    
+          <summary>
+            <a href="https://github.com/amaralc/testes-no-reactjs-e-react-native">
+              🌐 Testes no ReactJS e React Native
+            </a>
+            [React, Redux, Jest, React Testing Library]
+          </summary>
+          </br>  
+          <p>
+            Description: Created unit tests for components, actions and reducers using TDD.
+          </p>
+          </br>  
+        </details>
+      </blockquote>
+    </details>
+  </li>
+</ul>
