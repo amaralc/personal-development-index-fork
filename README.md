@@ -242,12 +242,12 @@
     <details>
       <summary>
         <a href="https://github.com/amaralc/vite-nx-module-federation">[Tutorial] Vite, NX and Module Federation</a>
-        (49%)
+        (100%) ✔️
       </summary>
       <ul>
         <li><a href="https://www.youtube.com/watch?v=t-nchkL9yIg">Tutorial</a></li>
         <li>Started: 2023-04-06</li>
-        <li>Finished:</li>
+        <li>Finished: 2023-04-07</li>
       </ul>
     </details>
   </li>
