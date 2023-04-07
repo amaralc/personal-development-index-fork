@@ -10,6 +10,18 @@
   <li>
     <details>
       <summary>
+        <a href="https://egghead.io/courses/manage-application-state-with-jotai-atoms-2c3a29f0">[Workshop] Manage Application State with Jotai Atoms</a>
+        (0%)
+      </summary>
+      <ul>
+        <li>Started:</li>
+        <li>Finished:</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>
         <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Tutorial] Beginners TypeScript</a>
         (0%)
       </summary>

@@ -30,6 +30,7 @@ module.exports = {
         'chore',
         'config',
         'progress',
+        'backlog'
       ],
     ],
   },
