@@ -229,6 +229,20 @@
   <li>
     <details>
       <summary>
+        <a href="https://github.com/amaralc/vite-nx-module-federation">[Tutorial] Vite, NX and Module Federation</a>
+        (49%)
+      </summary>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=t-nchkL9yIg">Tutorial</a></li>
+        <li>Started: 2023-04-06</li>
+        <li>Finished:</li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>
         <a href="https://github.com/amaralc/workshop-modern-redux-with-redux-toolkit-and-typescript"
           >[Workshop] Modern Redux with Redux Toolkit (RTK) and TypeScript</a
         >
