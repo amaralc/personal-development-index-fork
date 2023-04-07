@@ -217,7 +217,7 @@
         <a href="https://www.amazon.com.br/Software-Engineering-Google-Titus-Winters/dp/1492082791"
           >[Book] Software Engineering at Google: Lessons Learned from Programming Over Time</a
         >
-        (48%)
+        (70%)
       </summary>
       <ul>
         <li>Started: 2023-02-16</li>
