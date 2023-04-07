@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.2](https://github.com/amaralc/courses-and-bootcamps/compare/courses-and-bootcamps@1.1.1...courses-and-bootcamps@1.1.2) (2023-04-07)
+
+**Note:** Version bump only for package courses-and-bootcamps
+
+
+
+
+
 ## [1.1.1](https://github.com/amaralc/courses-and-bootcamps/compare/courses-and-bootcamps@1.1.0...courses-and-bootcamps@1.1.1) (2023-03-28)
 
 **Note:** Version bump only for package courses-and-bootcamps
