@@ -226,21 +226,6 @@
   <li>
     <details>
       <summary>
-        <a href="https://www.amazon.com.br/Software-Engineering-Google-Titus-Winters/dp/1492082791"
-          >[Book] Software Engineering at Google: Lessons Learned from Programming Over Time</a
-        >
-        (70%)
-      </summary>
-      <ul>
-        <li>Started: 2023-02-16</li>
-        <li>Finished:</li>
-      </ul>
-    </details>
-  </li>
-
-  <li>
-    <details>
-      <summary>
         <a href="https://github.com/amaralc/vite-nx-module-federation">[Tutorial] Vite, NX and Module Federation</a>
         (100%) ✔️
       </summary>
@@ -255,6 +240,21 @@
   <li>
     <details>
       <summary>
+        <a href="https://www.amazon.com.br/Software-Engineering-Google-Titus-Winters/dp/1492082791"
+          >[Book] Software Engineering at Google: Lessons Learned from Programming Over Time</a
+        >
+        (100%) ✔️
+      </summary>
+      <ul>
+        <li>Started: 2023-02-16</li>
+        <li>Finished: 2023-04-23</li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>
         <a href="https://github.com/amaralc/workshop-modern-redux-with-redux-toolkit-and-typescript"
           >[Workshop] Modern Redux with Redux Toolkit (RTK) and TypeScript</a
         >
@@ -262,8 +262,8 @@
       </summary>
       <ul>
         <li>Workshop: https://egghead.io/courses/modern-redux-with-redux-toolkit-rtk-and-typescript-64f243c8</li>
-        <li>Started:</li>
-        <li>Finished:</li>
+        <li>Started: 2023-03-28</li>
+        <li>Finished: 2023-03-28</li>
       </ul>
     </details>
   </li>
