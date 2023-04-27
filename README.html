@@ -10,7 +10,8 @@
   <li>
     <details>
       <summary>
-        <a href="https://egghead.io/courses/manage-application-state-with-jotai-atoms-2c3a29f0">[Workshop] Manage Application State with Jotai Atoms</a>
+        <a href="https://egghead.io/courses/manage-application-state-with-jotai-atoms-2c3a29f0">[Workshop] Manage
+          Application State with Jotai Atoms</a>
         (0%)
       </summary>
       <ul>
@@ -82,9 +83,8 @@
   <li>
     <details>
       <summary>
-        <a href="https://www.amazon.com.br/Peopleware-Productive-Projects-Tom-DeMarco/dp/0321934113"
-          >[Book] Peopleware: Productive Projects and Teams</a
-        >
+        <a href="https://www.amazon.com.br/Peopleware-Productive-Projects-Tom-DeMarco/dp/0321934113">[Book] Peopleware:
+          Productive Projects and Teams</a>
         (0%)
       </summary>
       <ul>
@@ -109,6 +109,21 @@
 <h1>2023</h1>
 
 <ul>
+  <li>
+    <details>
+      <summary>
+        <a href="https://github.com/amaralc/epic-web-dev-deploy-applications-all-over-the-world">[Tutorial] Deploy Web
+          Applications all over the
+          world</a>
+        (0%)
+      </summary>
+      <ul>
+        <li>Started: 2023-04-27</li>
+        <li>Finished:</li>
+      </ul>
+    </details>
+  </li>
+
   <li>
     <details>
       <summary>
@@ -170,9 +185,8 @@
   <li>
     <details>
       <summary>
-        <a href="https://github.com/amaralc/microfrontends-with-react"
-          >[Course] Microfrontends with React: A Complete Developer's Guide</a
-        >
+        <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete
+          Developer's Guide</a>
         (16%)
       </summary>
       <ul>
@@ -211,9 +225,8 @@
   <li>
     <details>
       <summary>
-        <a href="https://docs.google.com/document/d/1Lhxslykqxw0it2yzYy-AELPS-VwzoMoi69FlQB11UXc/edit?usp=share_link"
-          >[Book] Building Micro-Frontends</a
-        >
+        <a href="https://docs.google.com/document/d/1Lhxslykqxw0it2yzYy-AELPS-VwzoMoi69FlQB11UXc/edit?usp=share_link">[Book]
+          Building Micro-Frontends</a>
         (20%)
       </summary>
       <ul>
@@ -240,9 +253,8 @@
   <li>
     <details>
       <summary>
-        <a href="https://www.amazon.com.br/Software-Engineering-Google-Titus-Winters/dp/1492082791"
-          >[Book] Software Engineering at Google: Lessons Learned from Programming Over Time</a
-        >
+        <a href="https://www.amazon.com.br/Software-Engineering-Google-Titus-Winters/dp/1492082791">[Book] Software
+          Engineering at Google: Lessons Learned from Programming Over Time</a>
         (100%) ✔️
       </summary>
       <ul>
@@ -255,9 +267,8 @@
   <li>
     <details>
       <summary>
-        <a href="https://github.com/amaralc/workshop-modern-redux-with-redux-toolkit-and-typescript"
-          >[Workshop] Modern Redux with Redux Toolkit (RTK) and TypeScript</a
-        >
+        <a href="https://github.com/amaralc/workshop-modern-redux-with-redux-toolkit-and-typescript">[Workshop] Modern
+          Redux with Redux Toolkit (RTK) and TypeScript</a>
         (100%) ✔️
       </summary>
       <ul>
@@ -271,9 +282,8 @@
   <li>
     <details>
       <summary>
-        <a href="https://www.amazon.com.br/Monolith-Microservices-Sam-Newman/dp/1492047848"
-          >[Book] Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith</a
-        >
+        <a href="https://www.amazon.com.br/Monolith-Microservices-Sam-Newman/dp/1492047848">[Book] Monolith to
+          Microservices: Evolutionary Patterns to Transform Your Monolith</a>
         (100%) ✔️
       </summary>
       <ul>
@@ -286,9 +296,8 @@
   <li>
     <details>
       <summary>
-        <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link"
-          >[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a
-        >
+        <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book]
+          Team Topologies: Organizing Business and Technology Teams for Fast Flow</a>
         (100%) ✔️
       </summary>
       <ul>
@@ -304,9 +313,8 @@
   <li>
     <details>
       <summary>
-        <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs"
-          >[Workshop] Ignite Lab Node.js 2022</a
-        >
+        <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Workshop] Ignite Lab Node.js
+          2022</a>
         (100%) ✔️
       </summary>
       <ul>
@@ -318,9 +326,8 @@
   <li>
     <details>
       <summary>
-        <a href="https://docs.google.com/document/d/11H4p8mdh9XqysuJRMCgnANQ6WLe_93aPJqMJi-tC13E/edit?usp=share_link"
-          >[Book] Extreme Programming Explained</a
-        >
+        <a href="https://docs.google.com/document/d/11H4p8mdh9XqysuJRMCgnANQ6WLe_93aPJqMJi-tC13E/edit?usp=share_link">[Book]
+          Extreme Programming Explained</a>
         (100%) ✔️
       </summary>
       <ul>
@@ -399,8 +406,7 @@
             <details>
               <summary>
                 <a
-                  href="https://github.com/amaralc/2021-ignite-reactjs-II-desafio-01-criando-um-hook-de-carrinho-de-compras"
-                >
+                  href="https://github.com/amaralc/2021-ignite-reactjs-II-desafio-01-criando-um-hook-de-carrinho-de-compras">
                   🌐 Challenge 01 - Creating a shopping cart hook
                 </a>
                 [ReactJS, TypeScript]
