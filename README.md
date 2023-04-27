@@ -115,7 +115,7 @@
         <a href="https://github.com/amaralc/epic-web-dev-deploy-applications-all-over-the-world">[Tutorial] Deploy Web
           Applications all over the
           world</a>
-        (0%)
+        (50%)
       </summary>
       <ul>
         <li>Started: 2023-04-27</li>
