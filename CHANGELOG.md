@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.9](https://github.com/amaralc/personal-development-index/compare/pdi@1.1.8...pdi@1.1.9) (2023-06-09)
+
+**Note:** Version bump only for package pdi
+
+
+
+
+
 ## [1.1.8](https://github.com/amaralc/personal-development-index/compare/pdi@1.1.7...pdi@1.1.8) (2023-05-11)
 
 **Note:** Version bump only for package pdi
