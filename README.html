@@ -126,6 +126,21 @@
   <li>
     <details>
       <summary>
+        <a
+          href="https://www.amazon.com.br/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3BU04KJJSX364&keywords=continuous+delivery&qid=1687429885&s=books&sprefix=continuous+delivery%2Cstripbooks%2C222&sr=1-4"
+          >[Book] Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation</a
+        >
+        (0%)
+      </summary>
+      <ul>
+        <li>Started:</li>
+        <li>Finished:</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>
         <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] Learn ThreeJS using React</a>
       </summary>
       <ul>
