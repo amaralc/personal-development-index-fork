@@ -269,6 +269,21 @@
   <li>
     <details>
       <summary>
+        <a href="https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592"
+          >[Book] The Project Phoenix</a
+        >
+        (66%)
+      </summary>
+      <ul>
+        <li>Started: 2023-06-02</li>
+        <li>Finished:</li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>
         <a href="https://www.amazon.com/Staff-Engineers-Path-Individual-Contributors/dp/1098118731"
           >[Book] Staff Engineer's Path</a
         >
