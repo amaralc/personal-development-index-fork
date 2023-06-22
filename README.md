@@ -272,7 +272,7 @@
         <a href="https://www.amazon.com/Staff-Engineers-Path-Individual-Contributors/dp/1098118731"
           >[Book] Staff Engineer's Path</a
         >
-        (100%)
+        (100%) ✔️
       </summary>
       <ul>
         <li>Started: 2023-04-26</li>
