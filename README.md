@@ -165,15 +165,28 @@
         <li>Finished:</li>
         <li>
           <details>
+            <summary>Use Cases</summary>
+            <ul>
+              <li>[Developer] Once I merge a PR to trunk, release notes are automatically generated (80%)</li>
+              <li>[Developer] Once I open a new PR, an isolated fullstack environment is created (75%)</li>
+              <li>[Developer] I can see and manage code for the whole system from a single repository (100%) ✔️</li>
+              <li>[Developer] The CI pipeline do not waste time running tasks previously executed (75%)</li>
+              <li>[Developer] I can easily find information about how things were done in the docs (50%)</li>
+              <li>[User] I want to log in using my google account (10%)</li>
+            </ul>
+          </details>
+        </li>
+        <li>
+          <details>
             <summary>System Attributes</summary>
             <ul>
-              <li>[DevOps] CI/CD with GitHub Actions, Terraform and Google Cloud Platform (90%)</li>
-              <li>[DevOps] Automated release workflow with Lerna, Husky and Commitlint (100%) ✔️</li>
-              <li>[DevOps] Full stack preview environments for pull-requests (75%)</li>
-              <li>[DevOps] Nx build system for monorepo management (100%) ✔️</li>
-              <li>[DevOps] Remote caches for reduced ci time consumption with Nx Cloud (100%) ✔️</li>
-              <li>[Docs] Documentation with Docusaurus (100%) ✔️</li>
-              <li>[Auth] Firebase configuration (10%)</li>
+              <li>[DevOps] CI/CD with GitHub Actions, Terraform and Google Cloud Platform</li>
+              <li>[DevOps] Automated release workflow with Lerna, Husky and Commitlint</li>
+              <li>[DevOps] Full stack preview environments for pull-requests</li>
+              <li>[DevOps] Nx build system for monorepo management</li>
+              <li>[DevOps] Remote caches for reduced ci time consumption with Nx Cloud</li>
+              <li>[Docs] Documentation with Docusaurus</li>
+              <li>[Auth] Firebase configuration</li>
             </ul>
           </details>
         </li>
