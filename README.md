@@ -158,11 +158,24 @@
     <details>
       <summary>
         <a href="https://github.com/amaralc/peerlab">[Project] Peerlab</a>
-        (1.1%)
+        (3%)
       </summary>
       <ul>
         <li>Started: 2019-12-16</li>
         <li>Finished:</li>
+        <li>
+          <details>
+            <summary>System Attributes</summary>
+            <ul>
+              <li>[DevOps] CI/CD with GitHub Actions, Terraform and Google Cloud Platform (90%)</li>
+              <li>[DevOps] Automated release workflow with Lerna, Husky and Commitlint (100%) ✔️</li>
+              <li>[DevOps] Full stack preview environments for pull-requests (75%)</li>
+              <li>[DevOps] Nx build system for monorepo management (100%) ✔️</li>
+              <li>[DevOps] Remote caches for reduced ci time consumption with Nx Cloud (100%) ✔️</li>
+              <li>[Auth] Firebase configuration (10%)</li>
+            </ul>
+          </details>
+        </li>
       </ul>
     </details>
   </li>
