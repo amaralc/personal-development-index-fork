@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.0](https://github.com/amaralc/personal-development-index/compare/pdi@1.1.13...pdi@1.2.0) (2023-08-07)
+
+
+### Features
+
+* **peerlab:** progress - 3% ([0ea866f](https://github.com/amaralc/personal-development-index/commit/0ea866fba2c776eacfc8f0addc6bf1e9a5affc97))
+
+
+
 ## [1.1.13](https://github.com/amaralc/personal-development-index/compare/pdi@1.1.12...pdi@1.1.13) (2023-08-07)
 
 **Note:** Version bump only for package pdi
