@@ -6,7 +6,7 @@
  *
  * ATTENTION: It is necessary to point to this config file, while running lerna command.
  *
- * Example: yarn lerna version --yes --conventional-commits --changelog-preset ./changelog-preset.config.js
+ * Example: pnpm lerna version --yes --conventional-commits --changelog-preset ./changelog-preset.config.js
  */
 
 const config = require('conventional-changelog-conventionalcommits');
