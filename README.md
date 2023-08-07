@@ -172,6 +172,7 @@
               <li>[DevOps] Full stack preview environments for pull-requests (75%)</li>
               <li>[DevOps] Nx build system for monorepo management (100%) ✔️</li>
               <li>[DevOps] Remote caches for reduced ci time consumption with Nx Cloud (100%) ✔️</li>
+              <li>[Docs] Documentation with Docusaurus (100%) ✔️</li>
               <li>[Auth] Firebase configuration (10%)</li>
             </ul>
           </details>
