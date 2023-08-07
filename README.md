@@ -285,13 +285,29 @@
     <details>
       <summary>
         <a href="https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592"
-          >[Book] The Project Phoenix</a
+          >[Book] The Phoenix Project - A Noval About IT, DevOps, and Helping Your Business Win</a
         >
-        (66%)
+        (85%)
       </summary>
       <ul>
         <li>Started: 2023-06-02</li>
         <li>Finished:</li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>
+        <a
+          href="https://www.amazon.com/https://www.amazon.com.br/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41"
+          >[Book] The Unicorn Project - A Novel about Developers, Digital Disruption, and Thriving in the Age of Data</a
+        >
+        (100%) ✔️
+      </summary>
+      <ul>
+        <li>Started: 2023-07-04</li>
+        <li>Finished: 2023-07-26</li>
       </ul>
     </details>
   </li>
