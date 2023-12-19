@@ -167,14 +167,14 @@
           <details>
             <summary>Use Cases</summary>
             <ul>
-              <li>[Developer] I want to recreate the entire infrastructure using code (100%)</li>
-              <li>[Developer] I want to be able to choose which database provider I want to use (Cloud SQL or Neon) (100%)</li>
-              <li>[Developer] Once I merge a PR to trunk, release notes are automatically generated (100%)</li>
+              <li>[Developer] I want to recreate the entire infrastructure using code (100%) ✔️</li>
+              <li>[Developer] I want to be able to choose which database provider I want to use (Cloud SQL or Neon) (100%) ✔️</li>
+              <li>[Developer] Once I merge a PR to trunk, release notes are automatically generated (100%) ✔️</li>
               <li>[Developer] I can see and manage code for the whole system from a single repository (100%) ✔️</li>
-              <li>[Developer] The CI pipeline do not waste time running tasks previously executed (100%)</li>
-              <li>[Developer] I can easily find information about how things were done in the docs (100%)</li>
+              <li>[Developer] The CI pipeline do not waste time running tasks previously executed (100%) ✔️</li>
+              <li>[Developer] I can easily find information about how things were done in the docs (100%) ✔️</li>
               <li>[Developer] Once I open a new PR, an isolated fullstack environment is created (95%)</li>
-              <li>[User] I want to log in using my google account (100%)</li>
+              <li>[User] I want to log in using my google account (100%) ✔️</li>
             </ul>
           </details>
         </li>
