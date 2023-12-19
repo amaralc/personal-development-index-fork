@@ -329,7 +329,7 @@
       <summary>
         <a href="https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB"
           >[Book] Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs</a>
-        (100%)
+        (100%) ✔️
       </summary>
       <ul>
         <li>Started: 2023-10-02</li>
@@ -343,7 +343,7 @@
       <summary>
         <a href="https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002"
           >[Book] The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations</a>
-        (100%)
+        (100%) ✔️
       </summary>
       <ul>
         <li>Started: 2023-07-27</li>
@@ -357,7 +357,7 @@
       <summary>
         <a href="https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41"
           >[Book] The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data</a>
-        (100%)
+        (100%) ✔️
       </summary>
       <ul>
         <li>Started: 2023-07-04</li>
@@ -372,7 +372,7 @@
         <a href="https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592"
           >[Book] The Phoenix Project - A Noval About IT, DevOps, and Helping Your Business Win</a
         >
-        (100%)
+        (100%) ✔️
       </summary>
       <ul>
         <li>Started: 2023-06-02</li>
