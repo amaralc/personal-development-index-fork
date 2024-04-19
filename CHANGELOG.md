@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.0](https://github.com/amaralc/personal-development-index/compare/pdi@1.2.0...pdi@1.3.0) (2024-04-19)
+
+
+### Features
+
+* **peerlab-community:** 5% progress ([41644f9](https://github.com/amaralc/personal-development-index/commit/41644f910c273d35604d58316ec9211ae55549c1))
+* update book reading progress ([126af10](https://github.com/amaralc/personal-development-index/commit/126af106568411ffbdef8737c6168ff769273910))
+
+
+
 ## [1.2.0](https://github.com/amaralc/personal-development-index/compare/pdi@1.1.13...pdi@1.2.0) (2023-08-07)
 
 
