@@ -157,6 +157,43 @@
   <li>
     <details>
       <summary>
+        <a href="https://github.com/amaralc/explore">[Project] Peerlab Community</a>
+        (5%)
+      </summary>
+      <ul>
+        <li>Started: 2019-12-16</li>
+        <li>Finished:</li>
+        <li>
+          <details>
+            <summary>Use Cases</summary>
+            <ul>
+              <li>[Developer] Once I merge a PR to trunk, release notes are automatically generated (80%)</li>
+              <li>[Developer] Once I open a new PR, an isolated fullstack environment is created (75%)</li>
+              <li>[Developer] I can see and manage code for the whole system from a single repository (100%) ✔️</li>
+              <li>[Developer] The CI pipeline do not waste time running tasks previously executed (75%)</li>
+              <li>[Developer] I can easily find information about how things were done in the docs (50%)</li>
+              <li>[User] I want to log in using my google account (10%)</li>
+            </ul>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>System Attributes</summary>
+            <ul>
+              <li>[DevOps] CI/CD with GitHub Actions, Terraform and Google Cloud Platform</li>
+              <li>[DevOps] Automated release workflow with Lerna, Husky and Commitlint</li>
+              <li>[DevOps] Full stack preview environments for pull-requests</li>
+              <li>[DevOps] Nx build system for monorepo management</li>
+              <li>[DevOps] Remote caches for reduced ci time consumption with Nx Cloud</li>
+              <li>[Docs] Documentation with Docusaurus</li>
+              <li>[Auth] Firebase configuration</li>
+            </ul>
+          </details>
+        </li>
+      </ul>
+    </details>
+    <details>
+      <summary>
         <a href="https://github.com/amaralc/peerlab">[Project] Peerlab</a>
         (5%)
       </summary>
@@ -167,14 +204,12 @@
           <details>
             <summary>Use Cases</summary>
             <ul>
-              <li>[Developer] I want to recreate the entire infrastructure using code (100%) ✔️</li>
-              <li>[Developer] I want to be able to choose which database provider I want to use (Cloud SQL or Neon) (100%) ✔️</li>
-              <li>[Developer] Once I merge a PR to trunk, release notes are automatically generated (100%) ✔️</li>
+              <li>[Developer] Once I merge a PR to trunk, release notes are automatically generated (80%)</li>
+              <li>[Developer] Once I open a new PR, an isolated fullstack environment is created (75%)</li>
               <li>[Developer] I can see and manage code for the whole system from a single repository (100%) ✔️</li>
-              <li>[Developer] The CI pipeline do not waste time running tasks previously executed (100%) ✔️</li>
-              <li>[Developer] I can easily find information about how things were done in the docs (100%) ✔️</li>
-              <li>[Developer] Once I open a new PR, an isolated fullstack environment is created (95%)</li>
-              <li>[User] I want to log in using my google account (100%) ✔️</li>
+              <li>[Developer] The CI pipeline do not waste time running tasks previously executed (75%)</li>
+              <li>[Developer] I can easily find information about how things were done in the docs (50%)</li>
+              <li>[User] I want to log in using my google account (10%)</li>
             </ul>
           </details>
         </li>
@@ -313,66 +348,10 @@
   <li>
     <details>
       <summary>
-        <a href="https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB"
-          >[Book] Wiring the Winning Organization</a>
-        (60%)
-      </summary>
-      <ul>
-        <li>Started: 2023-11-29</li>
-        <li>Finished: </li>
-      </ul>
-    </details>
-  </li>
-
-  <li>
-    <details>
-      <summary>
-        <a href="https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB"
-          >[Book] Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs</a>
-        (100%) ✔️
-      </summary>
-      <ul>
-        <li>Started: 2023-10-02</li>
-        <li>Finished: 2023-11-02</li>
-      </ul>
-    </details>
-  </li>
-
-  <li>
-    <details>
-      <summary>
-        <a href="https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002"
-          >[Book] The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations</a>
-        (100%) ✔️
-      </summary>
-      <ul>
-        <li>Started: 2023-07-27</li>
-        <li>Finished: 2023-10-25</li>
-      </ul>
-    </details>
-  </li>
-
-  <li>
-    <details>
-      <summary>
-        <a href="https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41"
-          >[Book] The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data</a>
-        (100%) ✔️
-      </summary>
-      <ul>
-        <li>Started: 2023-07-04</li>
-        <li>Finished: 2023-07-26</li>
-      </ul>
-    </details>
-  </li>
-
-  <li>
-    <details>
-      <summary>
         <a href="https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592"
           >[Book] The Phoenix Project - A Noval About IT, DevOps, and Helping Your Business Win</a
         >
-        (100%) ✔️
+        (85%)
       </summary>
       <ul>
         <li>Started: 2023-06-02</li>
